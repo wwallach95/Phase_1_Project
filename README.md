@@ -16,14 +16,14 @@ At the request of Microsoft Studios, I have conducted research into the modern d
 
 ## Business Project
 I had been tapped by Microsoft Studios, the Microsoft Corporations new movie studio, to help them decide which types of movies they should create. Using the data from IMDB, Box Office Mojo, and TheMovieDB.org, I plan to answer the following questions:
-* [How can we define a successful movie?](./Question 1.ipynb)
+* How can we define a successful movie?
     * Is it defined by how much money it makes?
     * Is it defined by the profitability of the movie?
     * Should a successful movie be judged by its rating?
-* [Which genres are the most successful?](./Question 2.ipynb)
+* Which genres are the most successful?
     * How much does it cost to make a movie in the most successful genre
     * Which genre has the greatest margin for profit?
-* [Which movies are the easiest to make?](./Question 3.ipynb)
+* Which movies are the easiest to make?
     * How many people does it take?
     * How much does it cost to make?
     * Are the easiest movies to make the most successful?
@@ -49,7 +49,7 @@ Having gone through the data and crunched some numbers, I can safely recommend t
 Going forward, I would like to look into release date patterns to determine when best to release the two movies, as well as looking into foreign markets, as this project focused solely on the domestic market.
 
 ## More Information
-Please review my full analysis in our [Jupyter Notebook](./) or our presentation.
+Please review my full analysis in my Jupyter Notebooks above or my in my [presentation](https://youtu.be/Su43LkF3MP0).
 
 For any additional questions, please contact me at **wwallach95@gmail.com**
 
